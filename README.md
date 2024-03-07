@@ -2,7 +2,8 @@
 This Example shows how to configure saga framework in a spring boot application using AXON framework
 
 ## Pre Requisite 
-Download and run AXON server from here.
+Download and run AXON server from here. https://developer.axoniq.io/download
+
 Run
 `
 java -jar axonserver.jar

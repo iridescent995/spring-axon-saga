@@ -18,11 +18,12 @@ mvn clean compile exec:java
 `
 you can hit this POST url from postman. 
 
+`
 curl --location 'localhost:8080/accounts' \
 --header 'Content-Type: application/json' \
 --data '{
     "name": "accountName"
 }'
-
+`
 
 
